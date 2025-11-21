@@ -1,0 +1,5 @@
+{
+  "name": "Chess AI Coach",
+  "description": "An application that loads your chess.com games, analyzes them with AI to find your common mistakes, and provides coaching to help you improve your game.",
+  "requestFramePermissions": []
+}
